@@ -1,0 +1,35 @@
+.color_blanco{
+color: white
+}
+
+#hero_1{
+    background-image: url(../img/foto\ fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 500px;
+    padding-bottom: 500px;
+}
+
+#hero_2{
+    background-image: url(../img/FOTO\ 2.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 500px;
+    padding-bottom: 500px;
+}
+
+.fotografia{
+    text-align: center;
+    color: white;
+    padding-top:30px ;
+    padding-right: 30px;
+}
+
+
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
